@@ -41,50 +41,51 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDRWAicwwxYPKCh2MbCjakaBY4XIKfSJgo',
-    appId: '1:668362881532:web:4809ae549c1e484be4da79',
-    messagingSenderId: '668362881532',
-    projectId: 'myecommarceapp',
-    authDomain: 'myecommarceapp.firebaseapp.com',
-    storageBucket: 'myecommarceapp.firebasestorage.app',
-    measurementId: 'G-SZREWQW92L',
+    apiKey: 'AIzaSyDKeWOesv5IBrIWdfV-dEbAal1XkcpWkgA',
+    appId: '1:147795932666:web:c8d585ea8b60a9dfb16043',
+    messagingSenderId: '147795932666',
+    projectId: 'smart-home-automation-378e6',
+    authDomain: 'smart-home-automation-378e6.firebaseapp.com',
+    databaseURL: 'https://smart-home-automation-378e6-default-rtdb.firebaseio.com',
+    storageBucket: 'smart-home-automation-378e6.firebasestorage.app',
+    measurementId: 'G-1LS91ZS1V3',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBR0iCaTpZkNYQzAWWUNcvPN4C_JC0WpHo',
-    appId: '1:668362881532:android:6bacaf5fd25d53f0e4da79',
-    messagingSenderId: '668362881532',
-    projectId: 'myecommarceapp',
-    storageBucket: 'myecommarceapp.firebasestorage.app',
+    apiKey: 'AIzaSyAnVLQn1bglpJmDo7MmleyED1Pi3-zBE3M',
+    appId: '1:147795932666:android:b23225e5fa12593cb16043',
+    messagingSenderId: '147795932666',
+    projectId: 'smart-home-automation-378e6',
+    databaseURL: 'https://smart-home-automation-378e6-default-rtdb.firebaseio.com',
+    storageBucket: 'smart-home-automation-378e6.firebasestorage.app',
   );
-
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBhs_pZHJtyToPDXsmdjX8s03Stg1_vi1g',
-    appId: '1:668362881532:ios:0d7d01d8e96e157ee4da79',
-    messagingSenderId: '668362881532',
-    projectId: 'myecommarceapp',
-    storageBucket: 'myecommarceapp.firebasestorage.app',
-    iosClientId: '668362881532-13d8ahmg409bmcoqcqehrnj6c5kqemaf.apps.googleusercontent.com',
+    apiKey: 'AIzaSyBl6nJw-wogpGabYedQlinvlkaYfMh0mYE',
+    appId: '1:147795932666:ios:a62f3debd2fd3979b16043',
+    messagingSenderId: '147795932666',
+    projectId: 'smart-home-automation-378e6',
+    databaseURL: 'https://smart-home-automation-378e6-default-rtdb.firebaseio.com',
+    storageBucket: 'smart-home-automation-378e6.firebasestorage.app',
     iosBundleId: 'com.example.smartHomeAutomationApp',
   );
-
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBhs_pZHJtyToPDXsmdjX8s03Stg1_vi1g',
-    appId: '1:668362881532:ios:0d7d01d8e96e157ee4da79',
-    messagingSenderId: '668362881532',
-    projectId: 'myecommarceapp',
-    storageBucket: 'myecommarceapp.firebasestorage.app',
-    iosClientId: '668362881532-13d8ahmg409bmcoqcqehrnj6c5kqemaf.apps.googleusercontent.com',
+    apiKey: 'AIzaSyBl6nJw-wogpGabYedQlinvlkaYfMh0mYE',
+    appId: '1:147795932666:ios:a62f3debd2fd3979b16043',
+    messagingSenderId: '147795932666',
+    projectId: 'smart-home-automation-378e6',
+    databaseURL: 'https://smart-home-automation-378e6-default-rtdb.firebaseio.com',
+    storageBucket: 'smart-home-automation-378e6.firebasestorage.app',
     iosBundleId: 'com.example.smartHomeAutomationApp',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDRWAicwwxYPKCh2MbCjakaBY4XIKfSJgo',
-    appId: '1:668362881532:web:ab1c8418e9d17cffe4da79',
-    messagingSenderId: '668362881532',
-    projectId: 'myecommarceapp',
-    authDomain: 'myecommarceapp.firebaseapp.com',
-    storageBucket: 'myecommarceapp.firebasestorage.app',
-    measurementId: 'G-C6Y30L7SFC',
+    apiKey: 'AIzaSyDKeWOesv5IBrIWdfV-dEbAal1XkcpWkgA',
+    appId: '1:147795932666:web:c348232d0ca6d586b16043',
+    messagingSenderId: '147795932666',
+    projectId: 'smart-home-automation-378e6',
+    authDomain: 'smart-home-automation-378e6.firebaseapp.com',
+    databaseURL: 'https://smart-home-automation-378e6-default-rtdb.firebaseio.com',
+    storageBucket: 'smart-home-automation-378e6.firebasestorage.app',
+    measurementId: 'G-PZYTHD6EL7',
   );
 }

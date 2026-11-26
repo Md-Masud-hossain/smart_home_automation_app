@@ -1,79 +1,27 @@
 {
   "project_info": {
-    "project_number": "668362881532",
-    "project_id": "myecommarceapp",
-    "storage_bucket": "myecommarceapp.firebasestorage.app"
+    "project_number": "147795932666",
+    "firebase_url": "https://smart-home-automation-378e6-default-rtdb.firebaseio.com",
+    "project_id": "smart-home-automation-378e6",
+    "storage_bucket": "smart-home-automation-378e6.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:668362881532:android:c01ec214364ae248e4da79",
-        "android_client_info": {
-          "package_name": "com.example.ecommerce_app"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "668362881532-b5e4eh70fqovdjgc81cr2u3vfsh2ahhu.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBR0iCaTpZkNYQzAWWUNcvPN4C_JC0WpHo"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "668362881532-b5e4eh70fqovdjgc81cr2u3vfsh2ahhu.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "668362881532-k3729tto0o8rk9275f1l9snu7lbeqjtg.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.example.ecommerceApp"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:668362881532:android:6bacaf5fd25d53f0e4da79",
+        "mobilesdk_app_id": "1:147795932666:android:b23225e5fa12593cb16043",
         "android_client_info": {
           "package_name": "com.example.smart_home_automation_app"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "668362881532-b5e4eh70fqovdjgc81cr2u3vfsh2ahhu.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBR0iCaTpZkNYQzAWWUNcvPN4C_JC0WpHo"
+          "current_key": "AIzaSyAnVLQn1bglpJmDo7MmleyED1Pi3-zBE3M"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "668362881532-b5e4eh70fqovdjgc81cr2u3vfsh2ahhu.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "668362881532-k3729tto0o8rk9275f1l9snu7lbeqjtg.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.example.ecommerceApp"
-              }
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
